@@ -6,18 +6,19 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 0 | 1 | 1 | `2026-10-30` |
+| **3** | 0 | 2 | 1 | `2026-11-02` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (2)
+### DSA (3)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [PY](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/solution.py) | 🟡 Medium | `Graphs` | `-` |
 | 0002 | [Find the city with the smallest number of neighbors](./DSA/Graphs/find-the-city-with-the-smallest-number-of-neighbors) | [PY](./DSA/Graphs/find-the-city-with-the-smallest-number-of-neighbors/solution.py) | 🔴 Hard | `Graphs` | `2026-10-30` |
+| 0003 | [Network Delay Time](./DSA/Graphs/network-delay-time) | [PY](./DSA/Graphs/network-delay-time/solution.py) | 🟡 Medium | `Graphs` | `2026-11-02` |
 
 ---
 
