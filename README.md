@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **5** | 2 | 2 | 1 | `2026-11-14` |
+| **6** | 3 | 2 | 1 | `2026-11-14` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (5)
+### DSA (6)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -21,6 +21,7 @@
 | 0003 | [Largest Element](./DSA/Arrays/largest-element) | [Solution-2](./DSA/Arrays/largest-element/Solution-2.py) | 🟢 Easy | `Arrays` | `2026-11-14` |
 | 0004 | [Linear Search](./DSA/Arrays/linear-search) | [Solution-2](./DSA/Arrays/linear-search/Solution-2.py) | 🟢 Easy | `Arrays` | `2026-11-14` |
 | 0005 | [Network Delay Time](./DSA/Graphs/network-delay-time) | [PY](./DSA/Graphs/network-delay-time/solution.py) | 🟡 Medium | `Graphs` | `2026-11-02` |
+| 0006 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [Solution-2](./DSA/Arrays/second-largest-element/Solution-2.py) | 🟢 Easy | `Arrays` | `2026-11-14` |
 
 ---
 
