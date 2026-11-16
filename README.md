@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **9** | 5 | 3 | 1 | `2026-11-15` |
+| **10** | 6 | 3 | 1 | `2026-11-16` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (9)
+### DSA (10)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -24,7 +24,8 @@
 | 0006 | [Linear Search](./DSA/Arrays/linear-search) | [Solution-2](./DSA/Arrays/linear-search/Solution-2.py) | 🟢 Easy | `Arrays` | `2026-11-14` |
 | 0007 | [Maximum Consecutive Ones](./DSA/Arrays/maximum-consecutive-ones) | [Solution-2](./DSA/Arrays/maximum-consecutive-ones/Solution-2.py) | 🟢 Easy | `Arrays` | `2026-11-14` |
 | 0008 | [Network Delay Time](./DSA/Graphs/network-delay-time) | [PY](./DSA/Graphs/network-delay-time/solution.py) | 🟡 Medium | `Graphs` | `2026-11-02` |
-| 0009 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [Solution-2](./DSA/Arrays/second-largest-element/Solution-2.py) | 🟢 Easy | `Arrays` | `2026-11-14` |
+| 0009 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [Solution-3](./DSA/Arrays/remove-duplicates-from-sorted-array/Solution-3.py) | 🟢 Easy | `Arrays` | `2026-11-16` |
+| 0010 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [Solution-2](./DSA/Arrays/second-largest-element/Solution-2.py) | 🟢 Easy | `Arrays` | `2026-11-14` |
 
 ---
 
